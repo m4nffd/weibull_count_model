@@ -1,0 +1,381 @@
+Nation,League,Date,Month,Year,Home,Away
+Italy,Serie A,13,8,2022,AC Milan,Udinese
+Italy,Serie A,13,8,2022,Lecce,Inter
+Italy,Serie A,13,8,2022,Monza,Torino
+Italy,Serie A,13,8,2022,Sampdoria,Atalanta
+Italy,Serie A,14,8,2022,Fiorentina,Cremonese
+Italy,Serie A,14,8,2022,Lazio,Bologna
+Italy,Serie A,14,8,2022,Salernitana,AS Roma
+Italy,Serie A,14,8,2022,Spezia,Empoli
+Italy,Serie A,15,8,2022,Juventus,Sassuolo
+Italy,Serie A,15,8,2022,Verona,Napoli
+Italy,Serie A,20,8,2022,Inter,Spezia
+Italy,Serie A,20,8,2022,Sassuolo,Lecce
+Italy,Serie A,20,8,2022,Torino,Lazio
+Italy,Serie A,20,8,2022,Udinese,Salernitana
+Italy,Serie A,21,8,2022,Atalanta,AC Milan
+Italy,Serie A,21,8,2022,Bologna,Verona
+Italy,Serie A,21,8,2022,Empoli,Fiorentina
+Italy,Serie A,21,8,2022,Napoli,Monza
+Italy,Serie A,22,8,2022,AS Roma,Cremonese
+Italy,Serie A,22,8,2022,Sampdoria,Juventus
+Italy,Serie A,26,8,2022,Lazio,Inter
+Italy,Serie A,26,8,2022,Monza,Udinese
+Italy,Serie A,27,8,2022,AC Milan,Bologna
+Italy,Serie A,27,8,2022,Cremonese,Torino
+Italy,Serie A,27,8,2022,Juventus,AS Roma
+Italy,Serie A,27,8,2022,Spezia,Sassuolo
+Italy,Serie A,28,8,2022,Fiorentina,Napoli
+Italy,Serie A,28,8,2022,Lecce,Empoli
+Italy,Serie A,28,8,2022,Salernitana,Sampdoria
+Italy,Serie A,28,8,2022,Verona,Atalanta
+Italy,Serie A,30,8,2022,AS Roma,Monza
+Italy,Serie A,30,8,2022,Inter,Cremonese
+Italy,Serie A,30,8,2022,Sassuolo,AC Milan
+Italy,Serie A,31,8,2022,Empoli,Verona
+Italy,Serie A,31,8,2022,Juventus,Spezia
+Italy,Serie A,31,8,2022,Napoli,Lecce
+Italy,Serie A,31,8,2022,Sampdoria,Lazio
+Italy,Serie A,31,8,2022,Udinese,Fiorentina
+Italy,Serie A,1,9,2022,Atalanta,Torino
+Italy,Serie A,1,9,2022,Bologna,Salernitana
+Italy,Serie A,3,9,2022,AC Milan,Inter
+Italy,Serie A,3,9,2022,Fiorentina,Juventus
+Italy,Serie A,3,9,2022,Lazio,Napoli
+Italy,Serie A,4,9,2022,Cremonese,Sassuolo
+Italy,Serie A,4,9,2022,Spezia,Bologna
+Italy,Serie A,4,9,2022,Udinese,AS Roma
+Italy,Serie A,4,9,2022,Verona,Sampdoria
+Italy,Serie A,5,9,2022,Monza,Atalanta
+Italy,Serie A,5,9,2022,Salernitana,Empoli
+Italy,Serie A,5,9,2022,Torino,Lecce
+Italy,Serie A,11,9,2022,Atalanta,Cremonese
+Italy,Serie A,11,9,2022,Bologna,Fiorentina
+Italy,Serie A,11,9,2022,Empoli,AS Roma
+Italy,Serie A,11,9,2022,Inter,Torino
+Italy,Serie A,11,9,2022,Juventus,Salernitana
+Italy,Serie A,11,9,2022,Lazio,Verona
+Italy,Serie A,11,9,2022,Lecce,Monza
+Italy,Serie A,11,9,2022,Napoli,Spezia
+Italy,Serie A,11,9,2022,Sampdoria,AC Milan
+Italy,Serie A,11,9,2022,Sassuolo,Udinese
+Italy,Serie A,18,9,2022,AC Milan,Napoli
+Italy,Serie A,18,9,2022,AS Roma,Atalanta
+Italy,Serie A,18,9,2022,Bologna,Empoli
+Italy,Serie A,18,9,2022,Cremonese,Lazio
+Italy,Serie A,18,9,2022,Fiorentina,Verona
+Italy,Serie A,18,9,2022,Monza,Juventus
+Italy,Serie A,18,9,2022,Salernitana,Lecce
+Italy,Serie A,18,9,2022,Spezia,Sampdoria
+Italy,Serie A,18,9,2022,Torino,Sassuolo
+Italy,Serie A,18,9,2022,Udinese,Inter
+Italy,Serie A,2,10,2022,Atalanta,Fiorentina
+Italy,Serie A,2,10,2022,Empoli,AC Milan
+Italy,Serie A,2,10,2022,Inter,AS Roma
+Italy,Serie A,2,10,2022,Juventus,Bologna
+Italy,Serie A,2,10,2022,Lazio,Spezia
+Italy,Serie A,2,10,2022,Lecce,Cremonese
+Italy,Serie A,2,10,2022,Napoli,Torino
+Italy,Serie A,2,10,2022,Sampdoria,Monza
+Italy,Serie A,2,10,2022,Sassuolo,Salernitana
+Italy,Serie A,2,10,2022,Verona,Udinese
+Italy,Serie A,9,10,2022,AC Milan,Juventus
+Italy,Serie A,9,10,2022,AS Roma,Lecce
+Italy,Serie A,9,10,2022,Bologna,Sampdoria
+Italy,Serie A,9,10,2022,Cremonese,Napoli
+Italy,Serie A,9,10,2022,Fiorentina,Lazio
+Italy,Serie A,9,10,2022,Monza,Spezia
+Italy,Serie A,9,10,2022,Salernitana,Verona
+Italy,Serie A,9,10,2022,Sassuolo,Inter
+Italy,Serie A,9,10,2022,Torino,Empoli
+Italy,Serie A,9,10,2022,Udinese,Atalanta
+Italy,Serie A,16,10,2022,Atalanta,Sassuolo
+Italy,Serie A,16,10,2022,Empoli,Monza
+Italy,Serie A,16,10,2022,Inter,Salernitana
+Italy,Serie A,16,10,2022,Lazio,Udinese
+Italy,Serie A,16,10,2022,Lecce,Fiorentina
+Italy,Serie A,16,10,2022,Napoli,Bologna
+Italy,Serie A,16,10,2022,Sampdoria,AS Roma
+Italy,Serie A,16,10,2022,Spezia,Cremonese
+Italy,Serie A,16,10,2022,Torino,Juventus
+Italy,Serie A,16,10,2022,Verona,AC Milan
+Italy,Serie A,23,10,2022,AC Milan,Monza
+Italy,Serie A,23,10,2022,AS Roma,Napoli
+Italy,Serie A,23,10,2022,Atalanta,Lazio
+Italy,Serie A,23,10,2022,Bologna,Lecce
+Italy,Serie A,23,10,2022,Cremonese,Sampdoria
+Italy,Serie A,23,10,2022,Fiorentina,Inter
+Italy,Serie A,23,10,2022,Juventus,Empoli
+Italy,Serie A,23,10,2022,Salernitana,Spezia
+Italy,Serie A,23,10,2022,Sassuolo,Verona
+Italy,Serie A,23,10,2022,Udinese,Torino
+Italy,Serie A,30,10,2022,Cremonese,Udinese
+Italy,Serie A,30,10,2022,Empoli,Atalanta
+Italy,Serie A,30,10,2022,Inter,Sampdoria
+Italy,Serie A,30,10,2022,Lazio,Salernitana
+Italy,Serie A,30,10,2022,Lecce,Juventus
+Italy,Serie A,30,10,2022,Monza,Bologna
+Italy,Serie A,30,10,2022,Napoli,Sassuolo
+Italy,Serie A,30,10,2022,Spezia,Fiorentina
+Italy,Serie A,30,10,2022,Torino,AC Milan
+Italy,Serie A,30,10,2022,Verona,AS Roma
+Italy,Serie A,6,11,2022,AC Milan,Spezia
+Italy,Serie A,6,11,2022,AS Roma,Lazio
+Italy,Serie A,6,11,2022,Atalanta,Napoli
+Italy,Serie A,6,11,2022,Bologna,Torino
+Italy,Serie A,6,11,2022,Empoli,Sassuolo
+Italy,Serie A,6,11,2022,Juventus,Inter
+Italy,Serie A,6,11,2022,Monza,Verona
+Italy,Serie A,6,11,2022,Salernitana,Cremonese
+Italy,Serie A,6,11,2022,Sampdoria,Fiorentina
+Italy,Serie A,6,11,2022,Udinese,Lecce
+Italy,Serie A,9,11,2022,Cremonese,AC Milan
+Italy,Serie A,9,11,2022,Fiorentina,Salernitana
+Italy,Serie A,9,11,2022,Inter,Bologna
+Italy,Serie A,9,11,2022,Lazio,Monza
+Italy,Serie A,9,11,2022,Lecce,Atalanta
+Italy,Serie A,9,11,2022,Napoli,Empoli
+Italy,Serie A,9,11,2022,Sassuolo,AS Roma
+Italy,Serie A,9,11,2022,Spezia,Udinese
+Italy,Serie A,9,11,2022,Torino,Sampdoria
+Italy,Serie A,9,11,2022,Verona,Juventus
+Italy,Serie A,13,11,2022,AC Milan,Fiorentina
+Italy,Serie A,13,11,2022,AS Roma,Torino
+Italy,Serie A,13,11,2022,Atalanta,Inter
+Italy,Serie A,13,11,2022,Bologna,Sassuolo
+Italy,Serie A,13,11,2022,Empoli,Cremonese
+Italy,Serie A,13,11,2022,Juventus,Lazio
+Italy,Serie A,13,11,2022,Monza,Salernitana
+Italy,Serie A,13,11,2022,Napoli,Udinese
+Italy,Serie A,13,11,2022,Sampdoria,Lecce
+Italy,Serie A,13,11,2022,Verona,Spezia
+Italy,Serie A,4,1,2023,AS Roma,Bologna
+Italy,Serie A,4,1,2023,Cremonese,Juventus
+Italy,Serie A,4,1,2023,Fiorentina,Monza
+Italy,Serie A,4,1,2023,Inter,Napoli
+Italy,Serie A,4,1,2023,Lecce,Lazio
+Italy,Serie A,4,1,2023,Salernitana,AC Milan
+Italy,Serie A,4,1,2023,Sassuolo,Sampdoria
+Italy,Serie A,4,1,2023,Spezia,Atalanta
+Italy,Serie A,4,1,2023,Torino,Verona
+Italy,Serie A,4,1,2023,Udinese,Empoli
+Italy,Serie A,8,1,2023,AC Milan,AS Roma
+Italy,Serie A,8,1,2023,Bologna,Atalanta
+Italy,Serie A,8,1,2023,Fiorentina,Sassuolo
+Italy,Serie A,8,1,2023,Juventus,Udinese
+Italy,Serie A,8,1,2023,Lazio,Empoli
+Italy,Serie A,8,1,2023,Monza,Inter
+Italy,Serie A,8,1,2023,Salernitana,Torino
+Italy,Serie A,8,1,2023,Sampdoria,Napoli
+Italy,Serie A,8,1,2023,Spezia,Lecce
+Italy,Serie A,8,1,2023,Verona,Cremonese
+Italy,Serie A,15,1,2023,AS Roma,Fiorentina
+Italy,Serie A,15,1,2023,Atalanta,Salernitana
+Italy,Serie A,15,1,2023,Cremonese,Monza
+Italy,Serie A,15,1,2023,Empoli,Sampdoria
+Italy,Serie A,15,1,2023,Inter,Verona
+Italy,Serie A,15,1,2023,Lecce,AC Milan
+Italy,Serie A,15,1,2023,Napoli,Juventus
+Italy,Serie A,15,1,2023,Sassuolo,Lazio
+Italy,Serie A,15,1,2023,Torino,Spezia
+Italy,Serie A,15,1,2023,Udinese,Bologna
+Italy,Serie A,22,1,2023,Bologna,Cremonese
+Italy,Serie A,22,1,2023,Fiorentina,Torino
+Italy,Serie A,22,1,2023,Inter,Empoli
+Italy,Serie A,22,1,2023,Juventus,Atalanta
+Italy,Serie A,22,1,2023,Lazio,AC Milan
+Italy,Serie A,22,1,2023,Monza,Sassuolo
+Italy,Serie A,22,1,2023,Salernitana,Napoli
+Italy,Serie A,22,1,2023,Sampdoria,Udinese
+Italy,Serie A,22,1,2023,Spezia,AS Roma
+Italy,Serie A,22,1,2023,Verona,Lecce
+Italy,Serie A,29,1,2023,AC Milan,Sassuolo
+Italy,Serie A,29,1,2023,Atalanta,Sampdoria
+Italy,Serie A,29,1,2023,Bologna,Spezia
+Italy,Serie A,29,1,2023,Cremonese,Inter
+Italy,Serie A,29,1,2023,Empoli,Torino
+Italy,Serie A,29,1,2023,Juventus,Monza
+Italy,Serie A,29,1,2023,Lazio,Fiorentina
+Italy,Serie A,29,1,2023,Lecce,Salernitana
+Italy,Serie A,29,1,2023,Napoli,AS Roma
+Italy,Serie A,29,1,2023,Udinese,Verona
+Italy,Serie A,5,2,2023,AS Roma,Empoli
+Italy,Serie A,5,2,2023,Cremonese,Lecce
+Italy,Serie A,5,2,2023,Fiorentina,Bologna
+Italy,Serie A,5,2,2023,Inter,AC Milan
+Italy,Serie A,5,2,2023,Monza,Sampdoria
+Italy,Serie A,5,2,2023,Salernitana,Juventus
+Italy,Serie A,5,2,2023,Sassuolo,Atalanta
+Italy,Serie A,5,2,2023,Spezia,Napoli
+Italy,Serie A,5,2,2023,Torino,Udinese
+Italy,Serie A,5,2,2023,Verona,Lazio
+Italy,Serie A,12,2,2023,AC Milan,Torino
+Italy,Serie A,12,2,2023,Bologna,Monza
+Italy,Serie A,12,2,2023,Empoli,Spezia
+Italy,Serie A,12,2,2023,Juventus,Fiorentina
+Italy,Serie A,12,2,2023,Lazio,Atalanta
+Italy,Serie A,12,2,2023,Lecce,AS Roma
+Italy,Serie A,12,2,2023,Napoli,Cremonese
+Italy,Serie A,12,2,2023,Sampdoria,Inter
+Italy,Serie A,12,2,2023,Udinese,Sassuolo
+Italy,Serie A,12,2,2023,Verona,Salernitana
+Italy,Serie A,19,2,2023,AS Roma,Verona
+Italy,Serie A,19,2,2023,Atalanta,Lecce
+Italy,Serie A,19,2,2023,Fiorentina,Empoli
+Italy,Serie A,19,2,2023,Inter,Udinese
+Italy,Serie A,19,2,2023,Monza,AC Milan
+Italy,Serie A,19,2,2023,Salernitana,Lazio
+Italy,Serie A,19,2,2023,Sampdoria,Bologna
+Italy,Serie A,19,2,2023,Sassuolo,Napoli
+Italy,Serie A,19,2,2023,Spezia,Juventus
+Italy,Serie A,19,2,2023,Torino,Cremonese
+Italy,Serie A,26,2,2023,AC Milan,Atalanta
+Italy,Serie A,26,2,2023,Bologna,Inter
+Italy,Serie A,26,2,2023,Cremonese,AS Roma
+Italy,Serie A,26,2,2023,Empoli,Napoli
+Italy,Serie A,26,2,2023,Juventus,Torino
+Italy,Serie A,26,2,2023,Lazio,Sampdoria
+Italy,Serie A,26,2,2023,Lecce,Sassuolo
+Italy,Serie A,26,2,2023,Salernitana,Monza
+Italy,Serie A,26,2,2023,Udinese,Spezia
+Italy,Serie A,26,2,2023,Verona,Fiorentina
+Italy,Serie A,5,3,2023,AS Roma,Juventus
+Italy,Serie A,5,3,2023,Atalanta,Udinese
+Italy,Serie A,5,3,2023,Fiorentina,AC Milan
+Italy,Serie A,5,3,2023,Inter,Lecce
+Italy,Serie A,5,3,2023,Monza,Empoli
+Italy,Serie A,5,3,2023,Napoli,Lazio
+Italy,Serie A,5,3,2023,Sampdoria,Salernitana
+Italy,Serie A,5,3,2023,Sassuolo,Cremonese
+Italy,Serie A,5,3,2023,Spezia,Verona
+Italy,Serie A,5,3,2023,Torino,Bologna
+Italy,Serie A,12,3,2023,AC Milan,Salernitana
+Italy,Serie A,12,3,2023,AS Roma,Sassuolo
+Italy,Serie A,12,3,2023,Bologna,Lazio
+Italy,Serie A,12,3,2023,Cremonese,Fiorentina
+Italy,Serie A,12,3,2023,Empoli,Udinese
+Italy,Serie A,12,3,2023,Juventus,Sampdoria
+Italy,Serie A,12,3,2023,Lecce,Torino
+Italy,Serie A,12,3,2023,Napoli,Atalanta
+Italy,Serie A,12,3,2023,Spezia,Inter
+Italy,Serie A,12,3,2023,Verona,Monza
+Italy,Serie A,19,3,2023,Atalanta,Empoli
+Italy,Serie A,19,3,2023,Fiorentina,Lecce
+Italy,Serie A,19,3,2023,Inter,Juventus
+Italy,Serie A,19,3,2023,Lazio,AS Roma
+Italy,Serie A,19,3,2023,Monza,Cremonese
+Italy,Serie A,19,3,2023,Salernitana,Bologna
+Italy,Serie A,19,3,2023,Sampdoria,Verona
+Italy,Serie A,19,3,2023,Sassuolo,Spezia
+Italy,Serie A,19,3,2023,Torino,Napoli
+Italy,Serie A,19,3,2023,Udinese,AC Milan
+Italy,Serie A,2,4,2023,AS Roma,Sampdoria
+Italy,Serie A,2,4,2023,Bologna,Udinese
+Italy,Serie A,2,4,2023,Cremonese,Atalanta
+Italy,Serie A,2,4,2023,Empoli,Lecce
+Italy,Serie A,2,4,2023,Inter,Fiorentina
+Italy,Serie A,2,4,2023,Juventus,Verona
+Italy,Serie A,2,4,2023,Monza,Lazio
+Italy,Serie A,2,4,2023,Napoli,AC Milan
+Italy,Serie A,2,4,2023,Sassuolo,Torino
+Italy,Serie A,2,4,2023,Spezia,Salernitana
+Italy,Serie A,8,4,2023,AC Milan,Empoli
+Italy,Serie A,8,4,2023,Atalanta,Bologna
+Italy,Serie A,8,4,2023,Fiorentina,Spezia
+Italy,Serie A,8,4,2023,Lazio,Juventus
+Italy,Serie A,8,4,2023,Lecce,Napoli
+Italy,Serie A,8,4,2023,Salernitana,Inter
+Italy,Serie A,8,4,2023,Sampdoria,Cremonese
+Italy,Serie A,8,4,2023,Torino,AS Roma
+Italy,Serie A,8,4,2023,Udinese,Monza
+Italy,Serie A,8,4,2023,Verona,Sassuolo
+Italy,Serie A,16,4,2023,AS Roma,Udinese
+Italy,Serie A,16,4,2023,Bologna,AC Milan
+Italy,Serie A,16,4,2023,Cremonese,Empoli
+Italy,Serie A,16,4,2023,Fiorentina,Atalanta
+Italy,Serie A,16,4,2023,Inter,Monza
+Italy,Serie A,16,4,2023,Lecce,Sampdoria
+Italy,Serie A,16,4,2023,Napoli,Verona
+Italy,Serie A,16,4,2023,Sassuolo,Juventus
+Italy,Serie A,16,4,2023,Spezia,Lazio
+Italy,Serie A,16,4,2023,Torino,Salernitana
+Italy,Serie A,23,4,2023,AC Milan,Lecce
+Italy,Serie A,23,4,2023,Atalanta,AS Roma
+Italy,Serie A,23,4,2023,Empoli,Inter
+Italy,Serie A,23,4,2023,Juventus,Napoli
+Italy,Serie A,23,4,2023,Lazio,Torino
+Italy,Serie A,23,4,2023,Monza,Fiorentina
+Italy,Serie A,23,4,2023,Salernitana,Sassuolo
+Italy,Serie A,23,4,2023,Sampdoria,Spezia
+Italy,Serie A,23,4,2023,Udinese,Cremonese
+Italy,Serie A,23,4,2023,Verona,Bologna
+Italy,Serie A,30,4,2023,AS Roma,AC Milan
+Italy,Serie A,30,4,2023,Bologna,Juventus
+Italy,Serie A,30,4,2023,Cremonese,Verona
+Italy,Serie A,30,4,2023,Fiorentina,Sampdoria
+Italy,Serie A,30,4,2023,Inter,Lazio
+Italy,Serie A,30,4,2023,Lecce,Udinese
+Italy,Serie A,30,4,2023,Napoli,Salernitana
+Italy,Serie A,30,4,2023,Sassuolo,Empoli
+Italy,Serie A,30,4,2023,Spezia,Monza
+Italy,Serie A,30,4,2023,Torino,Atalanta
+Italy,Serie A,3,5,2023,AC Milan,Cremonese
+Italy,Serie A,3,5,2023,Atalanta,Spezia
+Italy,Serie A,3,5,2023,Empoli,Bologna
+Italy,Serie A,3,5,2023,Juventus,Lecce
+Italy,Serie A,3,5,2023,Lazio,Sassuolo
+Italy,Serie A,3,5,2023,Monza,AS Roma
+Italy,Serie A,3,5,2023,Salernitana,Fiorentina
+Italy,Serie A,3,5,2023,Sampdoria,Torino
+Italy,Serie A,3,5,2023,Udinese,Napoli
+Italy,Serie A,3,5,2023,Verona,Inter
+Italy,Serie A,7,5,2023,AC Milan,Lazio
+Italy,Serie A,7,5,2023,AS Roma,Inter
+Italy,Serie A,7,5,2023,Atalanta,Juventus
+Italy,Serie A,7,5,2023,Cremonese,Spezia
+Italy,Serie A,7,5,2023,Empoli,Salernitana
+Italy,Serie A,7,5,2023,Lecce,Verona
+Italy,Serie A,7,5,2023,Napoli,Fiorentina
+Italy,Serie A,7,5,2023,Sassuolo,Bologna
+Italy,Serie A,7,5,2023,Torino,Monza
+Italy,Serie A,7,5,2023,Udinese,Sampdoria
+Italy,Serie A,14,5,2023,Bologna,AS Roma
+Italy,Serie A,14,5,2023,Fiorentina,Udinese
+Italy,Serie A,14,5,2023,Inter,Sassuolo
+Italy,Serie A,14,5,2023,Juventus,Cremonese
+Italy,Serie A,14,5,2023,Lazio,Lecce
+Italy,Serie A,14,5,2023,Monza,Napoli
+Italy,Serie A,14,5,2023,Salernitana,Atalanta
+Italy,Serie A,14,5,2023,Sampdoria,Empoli
+Italy,Serie A,14,5,2023,Spezia,AC Milan
+Italy,Serie A,14,5,2023,Verona,Torino
+Italy,Serie A,21,5,2023,AC Milan,Sampdoria
+Italy,Serie A,21,5,2023,AS Roma,Salernitana
+Italy,Serie A,21,5,2023,Atalanta,Verona
+Italy,Serie A,21,5,2023,Cremonese,Bologna
+Italy,Serie A,21,5,2023,Empoli,Juventus
+Italy,Serie A,21,5,2023,Lecce,Spezia
+Italy,Serie A,21,5,2023,Napoli,Inter
+Italy,Serie A,21,5,2023,Sassuolo,Monza
+Italy,Serie A,21,5,2023,Torino,Fiorentina
+Italy,Serie A,21,5,2023,Udinese,Lazio
+Italy,Serie A,28,5,2023,Bologna,Napoli
+Italy,Serie A,28,5,2023,Fiorentina,AS Roma
+Italy,Serie A,28,5,2023,Inter,Atalanta
+Italy,Serie A,28,5,2023,Juventus,AC Milan
+Italy,Serie A,28,5,2023,Lazio,Cremonese
+Italy,Serie A,28,5,2023,Monza,Lecce
+Italy,Serie A,28,5,2023,Salernitana,Udinese
+Italy,Serie A,28,5,2023,Sampdoria,Sassuolo
+Italy,Serie A,28,5,2023,Spezia,Torino
+Italy,Serie A,28,5,2023,Verona,Empoli
+Italy,Serie A,4,6,2023,AC Milan,Verona
+Italy,Serie A,4,6,2023,AS Roma,Spezia
+Italy,Serie A,4,6,2023,Atalanta,Monza
+Italy,Serie A,4,6,2023,Cremonese,Salernitana
+Italy,Serie A,4,6,2023,Empoli,Lazio
+Italy,Serie A,4,6,2023,Lecce,Bologna
+Italy,Serie A,4,6,2023,Napoli,Sampdoria
+Italy,Serie A,4,6,2023,Sassuolo,Fiorentina
+Italy,Serie A,4,6,2023,Torino,Inter
+Italy,Serie A,4,6,2023,Udinese,Juventus
