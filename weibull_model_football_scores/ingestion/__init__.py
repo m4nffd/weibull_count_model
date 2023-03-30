@@ -10,6 +10,8 @@ def load_data(league: str, season: str) -> pd.DataFrame:
     file_path = os.path.join(FILE_PATH, "..", "data", file_name)
 
     df = pd.read_csv(file_path)
+
+    df["Date"] = df["Date"].str.split("/").str[::-1].apply("/".join)
     df.sort_values(by="Date", inplace=True)
     df.reset_index(drop=True, inplace=True)
     df["fixture"] = df.index // 10

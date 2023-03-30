@@ -140,7 +140,7 @@ class WeibullCountFitter:
                 ),
             )
 
-    def predict_single_match(self, home: str, away: str):
+    def predict_all_scores_single_match(self, home: str, away: str):
         results = []
 
         C = self.C_team.set_index("team").to_dict(orient="index")
@@ -157,6 +157,11 @@ class WeibullCountFitter:
 
         X = pd.DataFrame(results, columns=["H", "A", "p"])
 
+        return X
+
+    def predict_under_over_single_match(self, home: str, away: str):
+        X = self.predict_all_scores_single_match(home, away)
+
         X["over"] = X["H"] + X["A"] > 2.5
 
         under = X[~X["over"]]["p"].sum()
@@ -164,20 +169,52 @@ class WeibullCountFitter:
 
         return (under, over)
 
-    def predict(
-        self, df: pd.DataFrame, how: str, under_over: float = 2.5, score: str = None
+    def predict_under_over(
+        self,
+        df: pd.DataFrame,
     ) -> pd.DataFrame:
         df = df.copy()
 
         res = df.apply(
-            lambda row: self.predict_single_match(
-                row["Home"],
-                row["Away"],
+            lambda row: self.predict_under_over_single_match(
+                row["HomeTeam"],
+                row["AwayTeam"],
             ),
             axis=1,
         ).apply(pd.Series)
 
         res.rename(columns={0: "under", 1: "over"}, inplace=True)
+
+        return res
+
+    def predict_1x2_single_match(self, home: str, away: str):
+        X = self.predict_all_scores_single_match(home, away)
+
+        X["pred"] = "0"
+        X.loc[X["H"] > X["A"], "pred"] = "1"
+        X.loc[X["H"] < X["A"], "pred"] = "2"
+        X.loc[X["H"] == X["A"], "pred"] = "X"
+
+        scores = X.groupby("pred")["p"].sum()
+        scores /= (
+            scores.sum()
+        )  # Renormalising to 1 as we are not calculating p for all possible scores
+
+        return scores.T
+
+    def predict_1x2(
+        self,
+        df: pd.DataFrame,
+    ) -> pd.DataFrame:
+        df = df.copy()
+
+        res = df.apply(
+            lambda row: self.predict_1x2_single_match(
+                row["HomeTeam"],
+                row["AwayTeam"],
+            ),
+            axis=1,
+        )
 
         return res
 
